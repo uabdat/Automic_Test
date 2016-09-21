@@ -1,6 +1,20 @@
 # Automic_Test
 Acme-it_Test
 
-Hi My Name is Umar
-I am writing this to validate Github and see what I can do.
-I want to make an app to show you.
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>com.microsoftopentechnologies.acsfilter.feature</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.pde.FeatureBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.pde.FeatureNature</nature>
+	</natures>
+</projectDescription>
